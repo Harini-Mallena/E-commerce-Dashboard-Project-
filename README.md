@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Dashboard
+# 📊 E-Commerce Dashboard Projects
 
 ## 🔹 Overview
 An interactive E-Commerce Dashboard created in Microsoft Excel to analyze sales performance, product insights, and customer behavior using KPIs, charts, and dynamic slicers.
